@@ -1,16 +1,11 @@
 <?php
-  namespace hbattat;
+  namespace zz;
   use \DOMDocument;
   use \DOMXpath;
   /**
    *  Verifies email address by attempting to connect and check with the mail server of that account
    *
-   *  Author: Sam Battat hbattat@msn.com
-   *          http://github.com/hbattat
-   *
    *  License: This code is released under the MIT Open Source License. (Feel free to do whatever)
-   *
-   *  Last update: Oct 11 2016
    *
    * @package VerifyEmail
    * @author  Husam (Sam) Battat <hbattat@msn.com>

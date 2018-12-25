@@ -1,5 +1,5 @@
 {
-    "name": "hbattat/verifyemail",
+    "name": "zz/verifyemail",
     "description": "PHP class that can be easily used to verify an email address and make sure it is valid and does exist on the mail server.",
     "type": "library",
     "require": {
@@ -17,7 +17,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "hbattat\\": "./src"
+            "zz\\": "./src"
         }
     }
 }
